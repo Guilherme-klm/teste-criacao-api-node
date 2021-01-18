@@ -1,0 +1,12 @@
+.style-form-pessoas {
+    border-width: 2px; 
+    border-style: solid; 
+    border-color: black; 
+    height: 330px; 
+    width: 100%; 
+    margin-bottom: 20px;
+}
+
+.cor-fundo-pagina {
+    background-color:rgb(224, 217, 152);
+}
