@@ -1,5 +1,3 @@
-const item = require("./item");
-
 const Item = require('./item')
 
 Item.methods(['get', 'put', 'post', 'delete'])
